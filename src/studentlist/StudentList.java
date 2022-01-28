@@ -6,6 +6,10 @@ import java.util.Scanner;
  * This class is to demonstrate arrays of Student objects
  * 
  * @author Paul Bonenfant
+ *
+ * Modified by Philip Santram ID# 991620752 
+ *
+ * 27-01-2022
  */
 public class StudentList {
 
