@@ -4,6 +4,10 @@ package studentlist;
  * This class represents a Student in our application
  *
  * @author Paul Bonenfant
+ *
+ * Modified by Philip Santram ID# 991620752 
+ *
+ * 27-01-2022
  */
 public class Student {
 
